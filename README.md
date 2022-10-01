@@ -9,4 +9,5 @@ Change variables in program:
 `SCHEDULE_INTERVAL` `timedelta(days=30)` `DAG_OWNER_NAME` `START_DATE` `airflow_db_user_name` `airflow_db_password`
 
 SCHEDULE_INTERVAL - Defines how often that DAG runs
+
 timedelta(days=30) - Length to retain the DAG runs
